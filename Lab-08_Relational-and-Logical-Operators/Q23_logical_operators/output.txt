@@ -1,0 +1,15 @@
+a = 10, b = 20, c = 30
+
+Logical AND (&&)
+(a < b) && (b < c) = 1
+(a > b) && (b < c) = 0
+
+Logical OR (||)
+(a > b) || (b < c) = 1
+(a > b) || (b > c) = 0
+
+Logical NOT (!)
+!(a < b) = 0
+!(a > b) = 1
+
+(1 = True, 0 = False)
