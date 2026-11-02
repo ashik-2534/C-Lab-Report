@@ -1,0 +1,7 @@
+Initial value of a     = 10
+Post-increment (a++)   = 10
+Value of a now         = 11
+Pre-increment  (++a)   = 12
+Post-decrement (a--)   = 12
+Value of a now         = 11
+Pre-decrement  (--a)   = 10
