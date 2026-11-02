@@ -1,0 +1,2 @@
+Enter two positive integers: 48 18
+GCD of 48 and 18 = 6
