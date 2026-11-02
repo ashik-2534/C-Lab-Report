@@ -1,0 +1,2 @@
+Enter two numbers: 25 40
+The larger number is 40
