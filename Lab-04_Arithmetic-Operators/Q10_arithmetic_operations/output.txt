@@ -1,0 +1,6 @@
+Enter two integers (second one must not be 0): 17 5
+Addition       : 17 + 5 = 22
+Subtraction    : 17 - 5 = 12
+Multiplication : 17 * 5 = 85
+Division       : 17 / 5 = 3.40
+Modulus        : 17 % 5 = 2
