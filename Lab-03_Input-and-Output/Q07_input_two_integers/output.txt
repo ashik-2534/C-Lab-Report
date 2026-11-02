@@ -1,0 +1,3 @@
+Enter two integers: 15 27
+First number  = 15
+Second number = 27
