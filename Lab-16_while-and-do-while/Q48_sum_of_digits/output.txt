@@ -1,0 +1,2 @@
+Enter a number: 4829
+Sum of the digits of 4829 = 23
