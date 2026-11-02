@@ -1,0 +1,2 @@
+Enter a number (1 to 7): 6
+The day is Saturday.
