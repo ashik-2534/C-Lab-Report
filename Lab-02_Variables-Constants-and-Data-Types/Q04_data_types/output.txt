@@ -1,0 +1,5 @@
+int    age        = 20
+float  height     = 5.8
+double pi         = 3.141592653
+char   grade      = A
+long   population = 170000000
