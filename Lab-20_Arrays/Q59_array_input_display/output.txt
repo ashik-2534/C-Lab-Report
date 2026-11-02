@@ -1,0 +1,7 @@
+How many numbers do you want to enter (1 to 10)? 5
+Enter element 1: 8
+Enter element 2: 15
+Enter element 3: 23
+Enter element 4: 42
+Enter element 5: 56
+The elements of the array are: 8 15 23 42 56 

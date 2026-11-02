@@ -1,0 +1,9 @@
+Enter the number of elements (1 to 100): 6
+Enter element 1: 12
+Enter element 2: 7
+Enter element 3: 25
+Enter element 4: 3
+Enter element 5: 18
+Enter element 6: 9
+Sum     = 74
+Average = 12.33
